@@ -60,22 +60,6 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 
 ---
 
-## Project Structure
-├── data/                          # Dataset (source: UCI ML Repository)
-├── notebooks/                     # Jupyter notebook with full analysis
-│   └── Customer_Segmentation_Analysis.ipynb
-├── images/                        # Visualizations
-│   ├── elbow_silhouette.png
-│   ├── cluster_heatmap.png
-│   ├── cluster_distribution.png
-│   └── pca_visualization.png
-├── reports/                       # Final report PDF
-│   └── Customer_Segmentation_Report.pdf
-├── requirements.txt               # Python dependencies
-└── README.md
-
----
-
 ## Visualizations
 
 ### Cluster Distribution
