@@ -69,7 +69,7 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 ![RFM Heatmap](images/cluster_heatmap.png)
 
 ### Optimal K Selection
-![Elbow & Silhouette](images/elbow_silhouette.png)
+![Elbow & Silhouette](images/OptimalClusterSelectionAnalysis.png)
 
 ### PCA Visualization
 ![PCA Clusters](images/CustomerSegmentsVisualisedin2DSpaceUsingPCA.png)
