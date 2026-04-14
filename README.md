@@ -72,7 +72,7 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 ![Elbow & Silhouette](images/elbow_silhouette.png)
 
 ### PCA Visualization
-![PCA Clusters](images/pca_visualization.png)
+![PCA Clusters](images/CustomerSegmentsVisualisedin2DSpaceUsingPCA.png)
 
 ---
 
