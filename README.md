@@ -103,9 +103,9 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 ## Business Recommendations
 
 ### Immediate Actions (Week 1-4)
-✅ Launch At-Risk re-engagement campaign (highest priority)  
-✅ Assign B2B account managers  
-✅ Design Champions loyalty program  
+* Launch At-Risk re-engagement campaign (highest priority)  
+* Assign B2B account managers  
+* Design Champions loyalty program  
 
 ### Projected Results
 - 25-30% At-Risk customer recovery rate
