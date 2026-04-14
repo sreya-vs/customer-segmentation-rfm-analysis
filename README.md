@@ -133,7 +133,7 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 - **Time Period:** December 2010 - December 2011
 - **Company:** UK-based online retailer (gifts & occasions)
 - **Geography:** 38 countries, 82% from UK
-- **Currency:** GBP (converted to USD at £1 = $1.60)
+- **Currency:** GBP (converted to USD at approximate rate of £1 ≈ $1.60 for illustration)
  **Note:** Revenue projections are illustrative estimates based on assumed reactivation rates applied to historical 2010–2011 data. They demonstrate analytical methodology rather than precise forecasts.
 ---
 
