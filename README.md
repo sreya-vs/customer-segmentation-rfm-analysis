@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project segments 4,339 online retail customers using **RFM (Recency, Frequency, Monetary)** analysis and **K-means clustering** to enable targeted marketing strategies. The analysis identified **4 distinct customer segments** with **$360K-480K projected revenue recovery** through segment-specific campaigns.
+This project segments 4,339 online retail customers using **RFM (Recency, Frequency, Monetary)** analysis and **K-means clustering** to enable targeted marketing strategies. The analysis identified **4 distinct customer segments** with **$360K-480K projected revenue recovery potential** through segment-specific campaigns.
 
 **Key Achievement:** Transformed 541,909 transactions into actionable business insights with clear ROI projections.
 
@@ -17,7 +17,7 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 | Metric | Result |
 |--------|--------|
 | **Customers Analyzed** | 4,339 unique customers |
-| **Revenue Recovery Potential** | $360K - $480K annually |
+| **Revenue Recovery Potential** | $360K - $480K (estimated) |
 | **At-Risk Customers Identified** | 1,331 (30.7%) requiring immediate intervention |
 | **B2B High-Value Accounts** | 13 customers generating 30-40% of revenue |
 | **Segments Created** | 4 actionable groups with tailored strategies |
@@ -31,22 +31,22 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 **1. Champions (49.9%, 2,165 customers)**
 - Average spend: $4,238 | Frequency: 135 purchases | Recency: 21 days
 - *Action:* VIP loyalty program, early product access, referral incentives
-- *Expected outcome:* 15-20% increase in lifetime value
+- *Projected outcome:* 15-20% increase in lifetime value
 
 **2. At-Risk (30.7%, 1,331 customers)**
 - Average spend: $1,244 | Frequency: 38 purchases | Recency: 98 days
 - *Action:* Urgent re-engagement campaign with 15-20% discount
-- *Expected outcome:* Recover 100-130 customers, $150K-200K revenue
+- *Projected outcome:* Recover 100-130 customers, $150K-200K revenue
 
 **3. B2B/Wholesale (0.3%, 13 customers)**
 - Average spend: $201,789 | Frequency: 2,566 purchases | Recency: 5 days
 - *Action:* Dedicated account managers, volume pricing, separate B2B portal
-- *Expected outcome:* 100% retention, 20% order size increase
+- *Projected outcome:* 100% retention, 20% order size increase
 
 **4. Lost (19.1%, 830 customers)**
 - Average spend: $968 | Frequency: 25 purchases | Recency: 272 days
 - *Action:* Win-back campaign with 30% discount
-- *Expected outcome:* Recover 40-65 customers, $30K-50K revenue
+- *Projected outcome:* Recover 40-65 customers, $30K-50K revenue
 
 ---
 
@@ -107,7 +107,7 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 ✅ Assign B2B account managers  
 ✅ Design Champions loyalty program  
 
-### Expected Results
+### Projected Results
 - 25-30% At-Risk customer recovery rate
 - $150K-200K revenue from At-Risk segment
 - $30K-50K revenue from Lost customer win-back
@@ -134,7 +134,7 @@ This project segments 4,339 online retail customers using **RFM (Recency, Freque
 - **Company:** UK-based online retailer (gifts & occasions)
 - **Geography:** 38 countries, 82% from UK
 - **Currency:** GBP (converted to USD at £1 = $1.60)
-
+ **Note:** Revenue projections are illustrative estimates based on assumed reactivation rates applied to historical 2010–2011 data. They demonstrate analytical methodology rather than precise forecasts.
 ---
 
 ## Installation & Usage
