@@ -147,5 +147,5 @@ git clone https://github.com/sreya-vs/customer-segmentation-rfm-analysis.git
 pip install -r requirements.txt
 
 # Open Jupyter notebook
-jupyter notebook notebooks/Customer_Segmentation_Analysis.ipynb
+jupyter notebook notebook/Project1(1).ipynb
 ```
